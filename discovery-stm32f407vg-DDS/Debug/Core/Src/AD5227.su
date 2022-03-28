@@ -1,0 +1,3 @@
+AD5227.c:10:6:AD5227_Reset	8	static
+AD5227.c:15:6:AD5227_StepUp	8	static
+AD5227.c:29:6:AD5227_StepDown	8	static

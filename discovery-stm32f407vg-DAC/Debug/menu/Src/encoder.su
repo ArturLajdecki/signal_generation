@@ -1,0 +1,10 @@
+../menu/Src/encoder.c:13:6:HAL_GPIO_EXTI_Callback	16	static
+../menu/Src/encoder.c:23:6:encoder_struct_init	16	static
+../menu/Src/encoder.c:29:6:encoder_reset_flags	16	static
+../menu/Src/encoder.c:35:6:encoder_check_counter	16	static
+../menu/Src/encoder.c:40:6:encoder_toggle_button	16	static
+../menu/Src/encoder.c:52:6:encoder_check_direction	24	static
+../menu/Src/encoder.c:80:7:encoder_step_clockwise	16	static
+../menu/Src/encoder.c:92:7:encoder_step_counterclockwise	16	static
+../menu/Src/encoder.c:103:7:encoder_enter	16	static
+../menu/Src/encoder.c:114:10:encoder_return_counter	16	static

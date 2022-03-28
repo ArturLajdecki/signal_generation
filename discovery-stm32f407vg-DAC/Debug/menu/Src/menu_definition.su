@@ -1,0 +1,11 @@
+../menu/Src/menu_definition.c:46:6:func_A1	8	static
+../menu/Src/menu_definition.c:49:6:func_A2	4	static
+../menu/Src/menu_definition.c:53:6:func_B1	8	static
+../menu/Src/menu_definition.c:57:6:func_B2	4	static
+../menu/Src/menu_definition.c:61:6:waveform_struct_init	32	static
+../menu/Src/menu_definition.c:79:6:SET_wave_ARR	40	static
+../menu/Src/menu_definition.c:101:6:CHANGE_cursor	16	static
+../menu/Src/menu_definition.c:130:6:CHANGE_temperature	16	static
+../menu/Src/menu_definition.c:225:9:CALC_temperature	24	static
+../menu/Src/menu_definition.c:262:6:SHOW_temperature	88	static
+../menu/Src/menu_definition.c:285:6:SHOW_cursor	32	static

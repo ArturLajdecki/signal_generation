@@ -1,0 +1,12 @@
+../menu/Src/menu.c:15:9:Menu_GetMenuItemsNo	16	static
+../menu/Src/menu.c:28:24:Menu_GetMenuItem	24	static
+../menu/Src/menu.c:39:9:Menu_GetMenuRows	4	static
+../menu/Src/menu.c:44:6:Menu_Show	32	static
+../menu/Src/menu.c:80:6:Menu_SelectNext	24	static
+../menu/Src/menu.c:97:6:Menu_SelectPrev	16	static
+../menu/Src/menu.c:115:6:Menu_Back	4	static
+../menu/Src/menu.c:122:6:Menu_Click	24	static
+../menu/Src/menu.c:138:6:GUI_init	8	static
+../menu/Src/menu.c:237:6:window_1_callback	16	static
+../menu/Src/menu.c:278:6:window_2_callback	16	static
+../menu/Src/menu.c:297:6:window_3_callback	16	static
